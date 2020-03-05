@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Shopping Item)">4bdb6ca22fdbc010d7f158492799b671</button>
+        <button_parent_table>x_467209_shopping_shopping_item</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>quantity</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Quantity</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>quantity</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 21:58:58</sys_created_on>
+        <sys_id>cfdb6ca22fdbc010d7f158492799b675</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quantity</sys_name>
+        <sys_package display_value="Shopping List" source="x_467209_shopping">796964622fdbc010d7f158492799b605</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">796964622fdbc010d7f158492799b605</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_cfdb6ca22fdbc010d7f158492799b675</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-04 21:58:58</sys_updated_on>
+        <table_name>x_467209_shopping_shopping_item</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=cfdb6ca22fdbc010d7f158492799b675"/>
+</record_update>
